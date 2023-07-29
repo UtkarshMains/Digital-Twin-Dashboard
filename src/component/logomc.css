@@ -1,0 +1,73 @@
+.head{
+    background-color: rgb(39, 39, 41);
+    color: aliceblue;
+}
+
+.dash{
+    position: relative;
+    width:99vw;
+    height:40vw;
+    overflow-x: auto;
+    overflow-y: auto;
+    background-color: rgb(0, 0, 0) ;
+}
+.dtop{
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+}
+.img{
+    position: relative;
+    width:99vw;
+    height:40vw;
+    overflow-x: auto;
+    overflow-y: auto;
+
+}
+.start{
+    background-color: rgb(0, 199, 46);
+    margin: 2px 2px 2px 8px;
+    box-shadow: 3px 3px 3px 3px rgb(18, 147, 0);
+    color: aliceblue;
+}
+.stop{
+    background-color: brown;
+    margin: 2px 2px 2px 8px;
+    box-shadow: 3px 3px 3px 3px rgb(255, 0, 0);
+    color: aliceblue;
+}
+.dataset{
+        display:flex;
+        justify-content: space-around;
+        background-color: rgb(242, 242, 232);
+        align-items: center;
+}
+.op{
+    position: relative;
+    width:60%;
+    height:40vw;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+.opt{
+    width:50%;
+    height: 20%;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+th{
+    height: 70px;
+}
+td{
+    text-align: center;
+}
+.datah{
+    background-color: rgb(46, 45, 45);
+    color: aliceblue;
+}
+h4{
+    background-color: rgb(23, 63, 60);
+    color: aliceblue;
+}
+body{
+    background-color: rgb(77, 107, 106);
+}
