@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Digital-Twin-Dashboard/static/css/main.ec21053c.css",
+    "main.js": "/Digital-Twin-Dashboard/static/js/main.da1dd395.js",
+    "static/js/787.c1112931.chunk.js": "/Digital-Twin-Dashboard/static/js/787.c1112931.chunk.js",
+    "static/media/totalcost.png": "/Digital-Twin-Dashboard/static/media/totalcost.be4aded8694eaf4140a5.png",
+    "static/media/stage3.png": "/Digital-Twin-Dashboard/static/media/stage3.d0dd7b2cfefa849542fc.png",
+    "static/media/stages.png": "/Digital-Twin-Dashboard/static/media/stages.79913491280a8bdb3572.png",
+    "static/media/stage7.png": "/Digital-Twin-Dashboard/static/media/stage7.e7f7da5aa049c39988e4.png",
+    "static/media/stage5.png": "/Digital-Twin-Dashboard/static/media/stage5.6c622354643020322944.png",
+    "static/media/vc.png": "/Digital-Twin-Dashboard/static/media/vc.b1fd2e718afdf56ac57c.png",
+    "static/media/stage6.png": "/Digital-Twin-Dashboard/static/media/stage6.8c2618025a6312e88381.png",
+    "static/media/stage1.png": "/Digital-Twin-Dashboard/static/media/stage1.facc11f90795ea597b28.png",
+    "index.html": "/Digital-Twin-Dashboard/index.html",
+    "main.ec21053c.css.map": "/Digital-Twin-Dashboard/static/css/main.ec21053c.css.map",
+    "main.da1dd395.js.map": "/Digital-Twin-Dashboard/static/js/main.da1dd395.js.map",
+    "787.c1112931.chunk.js.map": "/Digital-Twin-Dashboard/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec21053c.css",
+    "static/js/main.da1dd395.js"
+  ]
+}
